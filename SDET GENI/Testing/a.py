@@ -23,7 +23,7 @@ gemini_llm = ChatGoogleGenerativeAI(
     model="gemini-pro",
     verbose=True,
     temperature=0,
-    google_api_key="AIzaSyAU97ZxASlUERhrK3MJ2IlIEYLL5lzxm4Y"
+    google_api_key="api-key-here"
 )
 
 def create_agents():
